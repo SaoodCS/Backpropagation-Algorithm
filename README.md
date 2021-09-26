@@ -50,7 +50,7 @@ The purpose of this project was implement an artificial neural network, more spe
 The performance of the neural network is measured using a variety of different performance evaluations, including: RMS (Root Mean Squared), RSME (Root Mean Squared Deviation), and MSRE (Mean Squared Relative Error) to name a few.
 <br><br>
 A graph is also plotted to show the actual outputs from the test dataset (x axis) against the predictions that the network made from the test dataset predictors. An example screenshot of this graph is shows below:
-<img src="output.png" alt="Logo" width="700">
+<img src="output.png" alt="Logo" width="500">
 
 
 
