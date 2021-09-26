@@ -46,9 +46,9 @@
 ## About The Project
 
 The purpose of this project was implement an artificial neural network, more specifically and multi layered perceptron, trained using the error backpropagation algorithm. The process included data pre-processing (splitting the data into training, validation and test subsets and standardising the data) and creating, training, and implementing the neural network to predict index floods from the given data set.
-<br>
+<br><br>
 The performance of the neural network is measured using a variety of different performance evaluations, including: RMS (Root Mean Squared), RSME (Root Mean Squared Deviation), and MSRE (Mean Squared Relative Error) to name a few.
-<br>
+<br><br>
 A graph is also plotted to show the actual outputs from the test dataset (x axis) against the predictions that the network made from the test dataset predictors.
 
 
