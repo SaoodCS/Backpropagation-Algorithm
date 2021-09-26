@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/SaoodCS/Backpropagation-Algorithm">
-    <img src="Multi-Layer_Neural_Network-Vector-Blank.svg" alt="Logo">
+    <img src="Multi-Layer_Neural_Network-Vector-Blank.svg" alt="Logo" width="300">
   </a>
 
   <h3 align="center">Error-Correcting MLP Backpropagation Algorithm</h3>
