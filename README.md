@@ -47,7 +47,7 @@
 
 <p>
 <h3>Example Screenshot <i>(Evaluation output measuring the performance of the Backprop Algorithm on the dataset):</i></h3>
-   <img src="output.png" alt="Logo" width="500">
+   <img src="output.png" alt="Logo" width="1000">
    <img src="output1.png" alt="Logo" width="500">
 </p>
 
