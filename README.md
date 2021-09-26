@@ -46,6 +46,11 @@
 ## About The Project
 
 The purpose of this project was implement an artificial neural network, more specifically and multi layered perceptron, trained using the error backpropagation algorithm. The process included data pre-processing (splitting the data into training, validation and test subsets and standardising the data) and creating, training, and implementing the neural network to predict index floods from the given data set.
+<br>
+The performance of the neural network is measured using a variety of different performance evaluations, including: RMS (Root Mean Squared), RSME (Root Mean Squared Deviation), and MSRE (Mean Squared Relative Error) to name a few.
+<br>
+A graph is also plotted to show the actual outputs from the test dataset (x axis) against the predictions that the network made from the test dataset predictors.
+
 
 
 ### Built With
@@ -94,6 +99,8 @@ found on the following link: [https://www.python.org/downloads/](https://www.pyt
 2. Enter 8 as the number of inputs, 1 as the number of outputs (as this is the predictors and predictant of this specific dataset in dataset.txt.)NOTE: You can run the algorithm on your own dataset too by formatting it into a txt file and saving it to the same folder
 as the algorithm (the first x columns on the LHS should be the inputs and the last x columns on the RHS shoulf be the outputs).
 3. Enter any number between 4 and 14 as the number of nodes in the hidden layer. 
+4. The output of this algorithm will illustrate the performance of this algorithm based on the predictors in the test dataset. These performance analyses include: RMS (Root Mean Squared), RSME (Root Mean Squared Deviation), and MSRE (Mean Squared Relative Error) to name a few. 
+5. The scatter graph plotted in the output shows the actual outputs from the test dataset (x axis) against the predictions that the network made from the test dataset predictors.
 
 
 
