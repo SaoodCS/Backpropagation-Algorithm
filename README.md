@@ -79,7 +79,7 @@ You will need to install the following software in order to run this project.
 1. Download the latest version of Python. The download link and installation guide can be
 found on the following link: [https://www.python.org/downloads/](https://www.python.org/downloads/)
 2. Download Jupyter Notebook for an enhanced experience when running the project (optional): [https://jupyter.org/](https://jupyter.org/)
-3. Download all the python libraries listed above in the prerequisites section: <li><a href="#prerequisites">Prerequisites</a></li>
+3. Download all the python libraries listed above in the prerequisites section:<a href="#prerequisites">Prerequisites</a>
 3. Clone the repository to your IDE through the command line using the "git" function or through your IDE. Copy the following repository URL:
    ```sh
    https://github.com/SaoodCS/Backpropagation-Algorithm
