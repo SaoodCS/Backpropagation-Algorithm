@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/SaoodCS/Backpropagation-Algorithm">
-    <img src="Multi-Layer_Neural_Network-Vector-Blank.svg" alt="Logo" width="400">
+    <img src="Multi-Layer_Neural_Network-Vector-Blank.svg" alt="Logo" width="300">
   </a>
 
   <h3 align="center">Error-Correcting MLP Backpropagation Algorithm</h3>
@@ -46,8 +46,9 @@
 ## About The Project
 
 <p>
-<h3>Example Screenshot <i>(locally saved meals for user "eee"):</i></h3>
-   <img src="readmeImages/screenshot1.png" alt="Logo" width="200">
+<h3>Example Screenshot <i>(Evaluation output measuring the performance of the Backprop Algorithm on the dataset):</i></h3>
+   <img src="output.png" alt="Logo" width="500">
+   <img src="output1.png" alt="Logo" width="500">
 </p>
 
 
