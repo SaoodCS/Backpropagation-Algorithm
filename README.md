@@ -59,7 +59,7 @@ A graph is also plotted to show the actual outputs from the test dataset (x axis
 
 This section lists all major frameworks, programming languages, packages and libraries used throughout the project.
 * [Pyhton 3.9.7](https://www.python.org/downloads/release/python-397/)
-* [Jupyer](https://jupyter.org/)
+* [Jupyter](https://jupyter.org/)
 * [Numpy](https://numpy.org/doc/stable/)
 * [Pandas](https://pandas.pydata.org/)
 * [Math](https://docs.python.org/3/library/math.html)
