@@ -51,7 +51,7 @@ The purpose of this project was implement an artificial neural network, more spe
 ### Built With
 
 This section lists all major frameworks, programming languages, packages and libraries used throughout the project.
-* [Jupyer](https://www.python.org/)
+* [Pyhton 3.9.7](https://www.python.org/downloads/release/python-397/)
 * [Jupyer](https://jupyter.org/)
 * [Numpy](https://numpy.org/doc/stable/)
 * [Pandas](https://pandas.pydata.org/)
@@ -61,48 +61,39 @@ This section lists all major frameworks, programming languages, packages and lib
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To set up this project, get a local copy up and running by either cloning this repository to Android Studio,
-or downloading the ZIP file of the repository and opening it in Android Studio.
+To set up this project, get a local copy up and running by either cloning this repository to your IDE,
+or downloading the ZIP file of the repository and opening it in your IDE.
 
 
 ### Prerequisites
 
 You will need to install the following software in order to run this project.
-* [Android Studio](https://developer.android.com/studio)
-* [Git](https://git-scm.com/downloads) (if cloning the repository)
+* [Pyhton 3.9.7](https://www.python.org/downloads/release/python-397/)
+* [Jupyer](https://jupyter.org/)
+* [Numpy](https://numpy.org/doc/stable/)
+* [Pandas](https://pandas.pydata.org/)
+* [Math](https://docs.python.org/3/library/math.html)
+* [Matplotlib](https://matplotlib.org/)
 
 ### Installation
-1. Download and install Android Studio. The download link and installation guide can be
-found on the following link: [https://developer.android.com/studio/install](https://developer.android.com/studio/install)
-2. Press "Clone Repository" in Android Studio. Copy the following repository URL:
+1. Download the latest version of Python. The download link and installation guide can be
+found on the following link: [https://www.python.org/downloads/](https://www.python.org/downloads/)
+2. Download Jupyter Notebook for an enhanced experience when running the project (optional): [https://jupyter.org/](https://jupyter.org/)
+3. Download all the python libraries listed above in the prerequisites section: <li><a href="#prerequisites">Prerequisites</a></li>
+3. Clone the repository to your IDE through the command line using the "git" function or through your IDE. Copy the following repository URL:
    ```sh
-   https://github.com/SaoodCS/Ingredilist
+   https://github.com/SaoodCS/Backpropagation-Algorithm
    ```
-3. Update any gradle and build files if requested by Android Studio
-4. Install an AVD emulator to run the app on in Android Studio 
-
-5.<b> To run the app, either:</b>
-<BLOCKQUOTE><BLOCKQUOTE> a. Press the play button in the top toolbar in Android Studio to run the app on the emulator. <br><br>
-            <b>OR:</b>
-            <br><br>
-            b. Run the AVD emulator -> Once loaded, drag and drop "ingredilist apk.apk" from the projects folder
-            to the emulator screen -> find the app on the android emulator and press it.
- </BLOCKQUOTE> </BLOCKQUOTE>
+4. Run the python file "Backprop Alg with Bold Driver" in your IDE. 
 
 
 
 <!-- USAGE EXAMPLES -->
 ## User Guide
-This application has a very comprehensive user guide highlighting how to use the app alongside all the various functionalities the 
-application has to offer. This user guide also includes screenshots of every activity and fragment screen too. <br>
-* The user guide is available as an integrated web app within the application itself on the settings screen, or can be accessed by clicking the following link:
-[User Guide Documentation](https://saoodcs.github.io/IngredilistUserGuide/)
-* If you would like to use the application without registering, just use the following details to do so:
-<BLOCKQUOTE><BLOCKQUOTE> Username:<b> eee</b>
-<br>
-      Password:<b> eee </b>
- </BLOCKQUOTE> </BLOCKQUOTE>
-
+1. Run the python file "Backprop Alg with Bold Driver" in your IDE. 
+2. Enter 8 as the number of inputs, 1 as the number of outputs (as this is the predictors and predictant of this specific dataset in dataset.txt.)NOTE: You can run the algorithm on your own dataset too by formatting it into a txt file and saving it to the same folder
+as the algorithm (the first x columns on the LHS should be the inputs and the last x columns on the RHS shoulf be the outputs).
+3. Enter any number between 4 and 14 as the number of nodes in the hidden layer. 
 
 
 
