@@ -45,63 +45,18 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<p>
-<h3>Example Screenshot <i>(Evaluation output measuring the performance of the Backprop Algorithm on the dataset):</i></h3>
-   <img src="output1.png" alt="Logo" width="500">
-</p>
-
-
-The purpose of this application is to ease the strenuous process of keeping on top of all your weekly grocery related chores. It includes various functionalities to fulfil this purpose. <br>
-A secondary purpose of this application is to upload and share meals with the community of people using Ingredilist. Uploading your own created meals and sharing it with other like-minded individuals gives the user an opportunity to make interesting meals of their own based on the ideas of others. <br> <br>
-Some of the functionalities within the application are listed below <i>(to see the full functionality in action, visit the [user guide](https://saoodcs.github.io/IngredilistUserGuide/)).</i>
-* Create a meal locally
-* Update a meal locally
-* Delete a meal locally
-* Upload/share a meal 
-* Delete a shared meal 
-* View shared meals by other users with their diet types
-* Create a shopping list 
-* Delete items on the shopping list
-* Delete items on the shopping list
-* Create cooking instructions with the time taken to cook per each instruction
-* Set a cooking timer countdown that notifies you when it reaches 0 
-* Set a shopping alarm time and date for when you would like to go shopping
-* Add and save supermarket phone numbers which you can call directly from the app
-* User guide is available on the Settings screen
-* Ability to adapt to different screen sizes and orientations
+The purpose of this project was implement an artificial neural network, more specifically and multi layered perceptron, trained using the error backpropagation algorithm. The process included data pre-processing (splitting the data into training, validation and test subsets and standardising the data) and creating, training, and implementing the neural network to predict index floods from the given data set.
 
 
 ### Built With
 
-This section lists all major frameworks, programming languages, markup languages and database structures used throughout the project.
-* [Android Studio SDK](https://developer.android.com/studio)
-* [Java](https://www.java.com/en/)
-* [JavaScript](https://www.javascript.com/)
-* [SQLite](https://www.sqlite.org/index.html)
-* [Firebase](https://firebase.google.com/)
-* [HTML](https://www.w3schools.com/html/)
-* [CSS](https://www.w3schools.com/css/)
-* [Espresso Testing Framework](https://developer.android.com/jetpack/androidx/releases/test#espresso-3.4.0)
-
-### Plugins and Packages
-This section lists all plugins, packages, and libraries used throughout the project.
-* [AlarmManager](https://developer.android.com/reference/android/app/AlarmManager)
-* [Intent](https://developer.android.com/reference/android/content/Intent)
-* [Content Provider](https://developer.android.com/reference/android/content/ContentProvider)
-* [SQLite](https://developer.android.com/jetpack/androidx/releases/sqlite)
-* [SharedPreferences](https://developer.android.com/reference/android/content/SharedPreferences)
-* [BroadcastReceiver](https://developer.android.com/reference/android/content/BroadcastReceiver)
-* [ShareActionProvider](https://developer.android.com/reference/android/widget/ShareActionProvider)
-* [NotificationCompat](https://developer.android.com/reference/androidx/core/app/NotificationCompat)
-* [Google Services Plugin](https://developers.google.com/android/guides/google-services-plugin)
-* [ConstraintLayout 2.0.4](https://developer.android.com/jetpack/androidx/releases/constraintlayout)
-* [RecyclerView 1.2.0](https://developer.android.com/jetpack/androidx/releases/recyclerview)
-* [Firebase Authentication](https://firebase.google.com/docs/auth/android/start)
-* [Firebase Database](https://firebase.google.com/docs/database)
-* [Firebase Firestore](https://firebase.google.com/docs/firestore/quickstart)
-* [Firebase UI 7.1.1](https://github.com/firebase/FirebaseUI-Android)
-* [JUnit Testing 4.13.2](https://developer.android.com/jetpack/androidx/releases/test#ext.junit-1.1.3)
-* [Espresso Testing 3.3.0](https://developer.android.com/jetpack/androidx/releases/test#espresso-3.4.0)
+This section lists all major frameworks, programming languages, packages and libraries used throughout the project.
+* [Jupyer](https://www.python.org/)
+* [Jupyer](https://jupyter.org/)
+* [Numpy](https://numpy.org/doc/stable/)
+* [Pandas](https://pandas.pydata.org/)
+* [Math](https://docs.python.org/3/library/math.html)
+* [Matplotlib](https://matplotlib.org/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
