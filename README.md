@@ -124,4 +124,4 @@ Distributed under the MIT License.
 
 Saood - saood-aslam@outlook.com
 
-Project Link: [https://github.com/SaoodCS/Ingredilist](https://github.com/SaoodCS/Ingredilist)
+Project Link: [https://github.com/SaoodCS/Backpropagation-Algorithm](https://github.com/SaoodCS/Backpropagation-Algorithm)
